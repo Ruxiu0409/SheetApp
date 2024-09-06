@@ -11,6 +11,23 @@
 		F7FDAB512C860F9B00B89C96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB502C860F9B00B89C96 /* ContentView.swift */; };
 		F7FDAB532C860F9C00B89C96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7FDAB522C860F9C00B89C96 /* Assets.xcassets */; };
 		F7FDAB562C860F9C00B89C96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7FDAB552C860F9C00B89C96 /* Preview Assets.xcassets */; };
+		F7FDAB5E2C86175500B89C96 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB5D2C86175500B89C96 /* TabBarView.swift */; };
+		F7FDAB622C86179600B89C96 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB612C86179600B89C96 /* Employee.swift */; };
+		F7FDAB642C8617AE00B89C96 /* Shift.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB632C8617AE00B89C96 /* Shift.swift */; };
+		F7FDAB6B2C86B59200B89C96 /* DateAndWeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB6A2C86B59200B89C96 /* DateAndWeek.swift */; };
+		F7FDAB6D2C86B62000B89C96 /* EmployeesName.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB6C2C86B62000B89C96 /* EmployeesName.swift */; };
+		F7FDAB6F2C86B76F00B89C96 /* SheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB6E2C86B76F00B89C96 /* SheetView.swift */; };
+		F7FDAB712C86B86000B89C96 /* EmployeeShiftBlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB702C86B86000B89C96 /* EmployeeShiftBlock.swift */; };
+		F7FDAB732C86B91800B89C96 /* EmployeeShiftRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB722C86B91800B89C96 /* EmployeeShiftRow.swift */; };
+		F7FDAB782C86C08A00B89C96 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB772C86C08A00B89C96 /* EditView.swift */; };
+		F7FDAB7A2C86CD3300B89C96 /* SelectStartDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB792C86CD3300B89C96 /* SelectStartDate.swift */; };
+		F7FDAB7C2C86CE6E00B89C96 /* SelectEmployee.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB7B2C86CE6E00B89C96 /* SelectEmployee.swift */; };
+		F7FDAB7E2C86CF3100B89C96 /* WeekView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB7D2C86CF3100B89C96 /* WeekView.swift */; };
+		F7FDAB822C86D17400B89C96 /* WeekViewSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB812C86D17400B89C96 /* WeekViewSelector.swift */; };
+		F7FDAB842C86DC3F00B89C96 /* ShiftDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB832C86DC3F00B89C96 /* ShiftDetailView.swift */; };
+		F7FDAB862C87343000B89C96 /* SelecterDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB852C87343000B89C96 /* SelecterDate.swift */; };
+		F7FDAB882C87363100B89C96 /* TimeTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB872C87363100B89C96 /* TimeTextField.swift */; };
+		F7FDAB8A2C8AE5FA00B89C96 /* WeekViewBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FDAB892C8AE5FA00B89C96 /* WeekViewBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,23 @@
 		F7FDAB502C860F9B00B89C96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7FDAB522C860F9C00B89C96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7FDAB552C860F9C00B89C96 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F7FDAB5D2C86175500B89C96 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		F7FDAB612C86179600B89C96 /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		F7FDAB632C8617AE00B89C96 /* Shift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shift.swift; sourceTree = "<group>"; };
+		F7FDAB6A2C86B59200B89C96 /* DateAndWeek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateAndWeek.swift; sourceTree = "<group>"; };
+		F7FDAB6C2C86B62000B89C96 /* EmployeesName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesName.swift; sourceTree = "<group>"; };
+		F7FDAB6E2C86B76F00B89C96 /* SheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetView.swift; sourceTree = "<group>"; };
+		F7FDAB702C86B86000B89C96 /* EmployeeShiftBlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeShiftBlock.swift; sourceTree = "<group>"; };
+		F7FDAB722C86B91800B89C96 /* EmployeeShiftRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeShiftRow.swift; sourceTree = "<group>"; };
+		F7FDAB772C86C08A00B89C96 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		F7FDAB792C86CD3300B89C96 /* SelectStartDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectStartDate.swift; sourceTree = "<group>"; };
+		F7FDAB7B2C86CE6E00B89C96 /* SelectEmployee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectEmployee.swift; sourceTree = "<group>"; };
+		F7FDAB7D2C86CF3100B89C96 /* WeekView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekView.swift; sourceTree = "<group>"; };
+		F7FDAB812C86D17400B89C96 /* WeekViewSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekViewSelector.swift; sourceTree = "<group>"; };
+		F7FDAB832C86DC3F00B89C96 /* ShiftDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftDetailView.swift; sourceTree = "<group>"; };
+		F7FDAB852C87343000B89C96 /* SelecterDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelecterDate.swift; sourceTree = "<group>"; };
+		F7FDAB872C87363100B89C96 /* TimeTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeTextField.swift; sourceTree = "<group>"; };
+		F7FDAB892C8AE5FA00B89C96 /* WeekViewBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekViewBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +87,9 @@
 			children = (
 				F7FDAB4E2C860F9B00B89C96 /* SheetAppApp.swift */,
 				F7FDAB502C860F9B00B89C96 /* ContentView.swift */,
+				F7FDAB5F2C86177400B89C96 /* Model */,
+				F7FDAB692C86B55C00B89C96 /* Component */,
+				F7FDAB5C2C86174100B89C96 /* View */,
 				F7FDAB522C860F9C00B89C96 /* Assets.xcassets */,
 				F7FDAB542C860F9C00B89C96 /* Preview Content */,
 			);
@@ -65,6 +102,60 @@
 				F7FDAB552C860F9C00B89C96 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F7FDAB5C2C86174100B89C96 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F7FDAB5D2C86175500B89C96 /* TabBarView.swift */,
+				F7FDAB742C86C02400B89C96 /* SheetView */,
+				F7FDAB762C86C06800B89C96 /* EditView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F7FDAB5F2C86177400B89C96 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F7FDAB612C86179600B89C96 /* Employee.swift */,
+				F7FDAB632C8617AE00B89C96 /* Shift.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F7FDAB692C86B55C00B89C96 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				F7FDAB6A2C86B59200B89C96 /* DateAndWeek.swift */,
+				F7FDAB6C2C86B62000B89C96 /* EmployeesName.swift */,
+				F7FDAB702C86B86000B89C96 /* EmployeeShiftBlock.swift */,
+				F7FDAB792C86CD3300B89C96 /* SelectStartDate.swift */,
+				F7FDAB7B2C86CE6E00B89C96 /* SelectEmployee.swift */,
+				F7FDAB812C86D17400B89C96 /* WeekViewSelector.swift */,
+				F7FDAB852C87343000B89C96 /* SelecterDate.swift */,
+				F7FDAB872C87363100B89C96 /* TimeTextField.swift */,
+				F7FDAB892C8AE5FA00B89C96 /* WeekViewBackground.swift */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		F7FDAB742C86C02400B89C96 /* SheetView */ = {
+			isa = PBXGroup;
+			children = (
+				F7FDAB6E2C86B76F00B89C96 /* SheetView.swift */,
+				F7FDAB722C86B91800B89C96 /* EmployeeShiftRow.swift */,
+			);
+			path = SheetView;
+			sourceTree = "<group>";
+		};
+		F7FDAB762C86C06800B89C96 /* EditView */ = {
+			isa = PBXGroup;
+			children = (
+				F7FDAB772C86C08A00B89C96 /* EditView.swift */,
+				F7FDAB7D2C86CF3100B89C96 /* WeekView.swift */,
+				F7FDAB832C86DC3F00B89C96 /* ShiftDetailView.swift */,
+			);
+			path = EditView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +228,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7FDAB8A2C8AE5FA00B89C96 /* WeekViewBackground.swift in Sources */,
+				F7FDAB6D2C86B62000B89C96 /* EmployeesName.swift in Sources */,
 				F7FDAB512C860F9B00B89C96 /* ContentView.swift in Sources */,
+				F7FDAB782C86C08A00B89C96 /* EditView.swift in Sources */,
+				F7FDAB712C86B86000B89C96 /* EmployeeShiftBlock.swift in Sources */,
+				F7FDAB7A2C86CD3300B89C96 /* SelectStartDate.swift in Sources */,
+				F7FDAB7C2C86CE6E00B89C96 /* SelectEmployee.swift in Sources */,
+				F7FDAB862C87343000B89C96 /* SelecterDate.swift in Sources */,
+				F7FDAB622C86179600B89C96 /* Employee.swift in Sources */,
+				F7FDAB5E2C86175500B89C96 /* TabBarView.swift in Sources */,
+				F7FDAB732C86B91800B89C96 /* EmployeeShiftRow.swift in Sources */,
 				F7FDAB4F2C860F9B00B89C96 /* SheetAppApp.swift in Sources */,
+				F7FDAB7E2C86CF3100B89C96 /* WeekView.swift in Sources */,
+				F7FDAB822C86D17400B89C96 /* WeekViewSelector.swift in Sources */,
+				F7FDAB842C86DC3F00B89C96 /* ShiftDetailView.swift in Sources */,
+				F7FDAB882C87363100B89C96 /* TimeTextField.swift in Sources */,
+				F7FDAB642C8617AE00B89C96 /* Shift.swift in Sources */,
+				F7FDAB6F2C86B76F00B89C96 /* SheetView.swift in Sources */,
+				F7FDAB6B2C86B59200B89C96 /* DateAndWeek.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
